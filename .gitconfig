@@ -1,0 +1,8 @@
+[user]
+	name = Simone
+	email = simonecaplin@gmail.com
+[core]
+	autocrlf = false
+	safecrlf = true
+[commit]
+	# template = /path/to/gitcommit/template
